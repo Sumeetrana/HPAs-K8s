@@ -3,4 +3,6 @@ kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/late
 
 ## Check the cpu and memory utilization for pods and clusters
 k top nodes
+
+
 k top pods
